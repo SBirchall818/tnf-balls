@@ -1,0 +1,9 @@
+export const BALL_GREEN = 'hsla(120, 87%, 46%, 0.68)';
+export const APP_BLUE = '#466dca';
+export const WASHED_OUT_BLUE = 'rgba(255,255,255,0.2)';
+export const HIGHLIGHT_BLUE = '#b0c1ea';
+export const TRANSPARENT = 'rgba(0, 0, 0, 0)';
+export const WHITE = 'white';
+export const PASTEL_RED = '#ef3333';
+export const PASTEL_RED_HIGHLIGHT = '#f36363';
+export const DISABLED_GREY = '#353434';

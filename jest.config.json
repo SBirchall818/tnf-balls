@@ -1,0 +1,7 @@
+{
+  "automock": false,
+  "testRegex": "((\\.|/*.)(test))\\.js?$",
+  "setupFilesAfterEnv": [
+    "<rootDir>/jest.setup.js"
+  ]
+}
